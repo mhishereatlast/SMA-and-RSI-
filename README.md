@@ -1,5 +1,3 @@
-# Algorithmic Trading Strategy
-
 This repository contains a Python script to develop an algorithmic trading strategy using historical price data for a financial instrument.
 
 ## Tasks
